@@ -45,7 +45,7 @@ You don't fight alone. Switch between operatives with **TAB**, each one position
 
 ## Deployment
 
-1. Acquire the build from [Releases](../../releases)
+1. Acquire the build from [Releases](https://github.com/matteoandrea/inglorious-ways-to-die-demo/releases/tag/v.0.0.5)
 2. Extract the mission files
 3. Launch `ThirdPerson_TestRoom.exe`
 4. Briefing complete. The rest is up to you.
@@ -106,7 +106,7 @@ Você não luta sozinho. Alterne entre agentes com **TAB**, cada um posicionado 
 
 ## Implantação
 
-1. Adquira a build na seção [Releases](../../releases)
+1. Adquira a build na seção [Releases](https://github.com/matteoandrea/inglorious-ways-to-die-demo/releases/tag/v.0.0.5)
 2. Extraia os arquivos da missão
 3. Execute `ThirdPerson_TestRoom.exe`
 4. Briefing completo. O resto é com você.
